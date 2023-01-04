@@ -1,0 +1,28 @@
+
+MHD00004
+
+                 HOA DON MUA BAN DIEN THOAI
+
+TEN KHACH HANG : Nguyen van b
+MA KHACH HANG  : MKH00003
+SO DIEN THOAI  : 09212323
+Ngay lap       : 12/12/2022
+SO SAN PHAM    : 2
+
+SO SERI 1      : 000004
+
+          MA KIEU DT    : KDT004
+          NHA SAN XUAT  : samsung
+          GIA BAN       : 17000
+          TG BAO HANH   : 1
+
+SO SERI 2      : 000005
+
+          MA KIEU DT    : KDT005
+          NHA SAN XUAT  : samsung
+          GIA BAN       : 17000
+          TG BAO HANH   : 1
+
+
+
+TONG TIEN THANH TOAN : 34000
